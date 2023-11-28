@@ -1,0 +1,6 @@
+open
+write
+close
+open
+read
+close
